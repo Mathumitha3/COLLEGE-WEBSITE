@@ -1,0 +1,62 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+.col-1{
+    width: 8.3333333%; 
+    border: solid 1px red;
+    min-height: 50px;
+}
+
+.col-3{
+    width: 25%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+.col-4{
+    width: 33.33333%;
+    border: solid 1px red;
+    min-height: 50px;
+}
+
+.col-6{
+    width: 50%;
+    border: solid 1px rgb(253, 3, 220);
+    min-height: 50px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.wrap-wrap{
+    flex-wrap: wrap;
+}
+
+.col{
+    border: solid 1px red;
+    min-height: 40px;
+   
+}
+.col img{
+    width: 40px;
+    height: 40px;
+    
+}
+.header-top{
+    background-color: #169FCC;
+    height: 80px;
+}
+.nav-section{
+    background-color: #169FCC;
+    height: 80px;
+}
+.academic{
+    background-color: #169FCC;
+    height: 500px;
+}
+
+
+
